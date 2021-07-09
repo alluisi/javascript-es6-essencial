@@ -14,6 +14,7 @@ function init() {
     }
 }
 
+/*
 const initFn1 = init();
 
 const initFn2 = initFn1();
@@ -21,3 +22,6 @@ const initFn2 = initFn1();
 const initFn3 = initFn2();
 
 initFn3();
+*/
+
+init()()();
