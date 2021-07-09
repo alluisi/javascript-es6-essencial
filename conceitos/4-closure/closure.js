@@ -24,4 +24,4 @@ const initFn3 = initFn2();
 initFn3();
 */
 
-init()()();
+init()()()();
